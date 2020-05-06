@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{361E9C1B-2A16-4E22-A89A-B648EE9F8485}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EntityApp/Program.cs">
+    <Files>
+      <File FileName="EntityApp/Program.cs" Line="12" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EntityApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
